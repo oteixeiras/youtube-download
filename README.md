@@ -51,7 +51,7 @@
 ### Via Local 
 1. Clone the api repository:
     ```shell
-    git clone git@github.com:solfacil/pr.sim.legacy_query-integrator.git
+    git clone git@github.com:oteixeiras/youtube-download.git
     ```
     
 3. install the dependencies:
